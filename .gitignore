@@ -9,6 +9,9 @@ env/
 # Data (M5 download cache)
 data/
 
+# PyTorch Lightning training logs
+lightning_logs/
+
 # Jupyter
 .ipynb_checkpoints/
 
